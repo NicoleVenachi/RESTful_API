@@ -10,6 +10,6 @@
   "author": "Nicole Venachi <ludwing@unicauca.edu.co>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   }
 }
